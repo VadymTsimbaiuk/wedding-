@@ -1,2 +1,0 @@
-# wedding-
-my wedding site
